@@ -1,0 +1,123 @@
+body {
+  overflow-y: scroll;
+  background-color: rgb(13, 13, 78);
+}
+
+.about {
+  color: rgb(255, 255, 255);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+}
+
+p {
+  color: aliceblue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+}
+.skills {
+  color: rgb(255, 255, 255);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 10px 0;
+  font-size: larger;
+}
+
+.education {
+  font-size: larger;
+  color: rgb(255, 255, 255);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.education {
+  color: rgb(255, 255, 255);
+}
+h3 {
+  color: rgb(255, 255, 255);
+  font-size: larger;
+}
+
+.bull1 a,
+.bull2 a,
+.bull3 a {
+  color: rgb(255, 255, 255);
+  font-size: larger;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.bull {
+  color: rgb(255, 255, 255);
+}
+
+.edu1 {
+  color: rgb(255, 255, 255);
+  font-size: larger;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
+.container {
+  max-width: 1200px; 
+  padding: 20px; 
+  margin-top: 10px; 
+  box-sizing: border-box; 
+ 
+}
+
+
+
+
+a {
+  text-decoration: none;
+}
+.instagram-link:hover,
+.github-link:hover,
+.email-link:hover {
+  color: rgb(1, 198, 116);
+}
+
+.contact {
+  color: rgb(255, 255, 255);
+  font-size: larger;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.skills-heading {
+  color: rgb(255, 255, 255);
+  font-size: larger;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.hidden 
+{
+  opacity: 0;
+  transition: all 1s;
+}
+
+.show
+{
+  opacity: 1;
+}
+.projects
+{
+  color: rgb(255, 255, 255);
+  font-size: larger;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img{
+  width: 70%
+ 
+}
+
+.languages
+{ color: rgb(255, 255, 255);
+  font-size: larger;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+.lan
+{
+  color: aliceblue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+}
